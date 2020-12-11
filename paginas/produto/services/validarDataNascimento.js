@@ -15,4 +15,4 @@ export const validarDataNascimento = input => {
 
     input.setCustomValidity ('');
     return;
-}
+};
